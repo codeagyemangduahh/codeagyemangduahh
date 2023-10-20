@@ -1,3 +1,6 @@
+![banner](github-header-image.png)
+
+
 # 💫 About Me:
 "Achiaah Agyemang Duah is a dynamic software engineer with a knack for crafting robust, scalable applications. With a foundation in full-stack development and a passion for innovation, Achiaah excels at delivering elegant solutions to complex technical challenges."
 
